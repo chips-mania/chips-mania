@@ -4,10 +4,9 @@ Hi 👋 chips-mania 😋
 
 <h2 align="center"> 🎨 Stack <br> </p>
  
-  <img src="https://img.shields.io/badge/Java-007396?style=round-square&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=round-square&logo=Spring Boot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=round-square&logo=Android Studio&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=round-square&logo=MongoDB&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=round-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/MariaDB-003545?style=round-square&logo=mariadb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=round-square&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=round-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=round-square&logo=kubernetes&logoColor=white"/>
 
  
 <p align="right">
