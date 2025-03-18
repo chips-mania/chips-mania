@@ -10,7 +10,7 @@ Hi 👋 chips-mania 😋
 
  
 <p align="right">
-<a href="블로그 주소"><img src="https://img.shields.io/badge/My tech blog-A9BCF5?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=블로그 주소"/></a>
-<a href="노션 주소"><img src="https://img.shields.io/badge/My Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+<a href="https://chips-mania.tistory.com/"><img src="https://img.shields.io/badge/My tech blog-A9BCF5?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=블로그 주소"/></a>
+<a href="https://www.notion.so/Lee-Jae-Won-1b9b8c429526807da459ec6fc94cfc42?pvs=25#1bab8c42952680b9981dd1d19145198b"><img src="https://img.shields.io/badge/My Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 
 
