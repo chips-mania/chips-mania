@@ -2,12 +2,12 @@
     <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e0079,100:7a155a&height=120&text=chips-mania&animation=fadeIn&fontColor=ffffff&fontSize=50" />
 </div>
 
-<br/>
+<!-- <br/>
 
 <h2> About me </h2>
 <div> 자기소개 내용입력 </div>
 
-<br/>
+<br/> -->
 
 <h2> 🛠️ Tech Stacks </h2>
 
@@ -30,13 +30,13 @@
 <h2> 🧑‍💻 Contact me </h2>
 
 <div>
-    <a href="mailto:leejaewon264@gmail.com">
+    <a href="mailto:leejeawon264@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
     </a>
+    <p>leejeawon264@gmail.com</p>
 </div>
 
-<br/>
-## 🏅 Stats
+<h2> 🏅 Stats </h2>
 
 <img src="https://github-readme-stats.vercel.app/api?username=chips-mania"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chips-mania"/>
@@ -44,5 +44,4 @@
 ---
 
 ## 🏆 Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=chips-mania)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy-kannan.vercel.app/?username=chips-mania&theme=buddhism&title=Commits,Repositories,PullRequest,Reviews,Issues&rank=-C,-?&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
