@@ -36,17 +36,13 @@
 </div>
 
 <br/>
+## 🏅 Stats
 
-<h2> 🏅 Stats </h2>
+<img src="https://github-readme-stats.vercel.app/api?username=chips-mania"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chips-mania"/>
 
-<div>
-    <img src="https://github-readme-stats.vercel.app/api?username=chips-mania&bg_color=180,00000000,fcfcfc&title_color=000000&text_color=000000"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chips-mania&layout=compact&bg_color=180,00000000,fcfcfc&title_color=000000&text_color=000000"/>
-</div>
+---
 
-<br/>
-
-<!-- 🔥 Trophy는 Markdown으로 (핵심) -->
 ## 🏆 Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=chips-mania&theme=onedark&column=4&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=chips-mania)](https://github.com/ryo-ma/github-profile-trophy)
