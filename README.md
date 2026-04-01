@@ -36,12 +36,24 @@
     <p>leejeawon264@gmail.com</p>
 </div>
 
+<br/>
+
 <h2> 🏅 Stats </h2>
 
-<img src="https://github-readme-stats.vercel.app/api?username=chips-mania"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chips-mania"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=chips-mania&show_icons=true&count_private=true"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=chips-mania&layout=compact"/>
 
----
+<br/>
+
+<h2> 🧠 Algorithm </h2>
+
+<div>
+    <a href="https://solved.ac/wodnjs264">
+        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wodnjs264"/>
+    </a>
+</div>
+
+<br/>
 
 ## 🏆 Trophies
 [![trophy](https://github-profile-trophy-kannan.vercel.app/?username=chips-mania&theme=buddhism&title=Commits,Repositories,PullRequest,Reviews,Issues&rank=-C,-?&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
